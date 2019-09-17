@@ -2,8 +2,6 @@
 Conducting Exploratory and Explanatory Data Analysis on a chosen dataset, using Python’s Data Science and Data Visualization Libraries.
 
 # PISA 2012 - Data Analysis
-## by Sudarsana Rajarathnam
-
 
 ## PISA 2012 Overview
 
